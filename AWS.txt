@@ -1,0 +1,20 @@
+https://aws.amazon.com/what-is-cloud-computing/
+
+Cloud computing is the on-demand delivery of compute power, database storage, applications, and other IT resources through a cloud services platform via the internet with pay-as-you-go pricing.
+
+
+Cloud computing provides a simple way to access servers, storage, databases and a broad set of application services over the Internet. A Cloud services platform such as Amazon Web Services owns and maintains the network-connected hardware required for these application services, while you provision and use what you need via a web application.
+
+Cloud computing is providing developers and IT departments with the ability to focus on what matters most and avoid undifferentiated work like procurement, maintenance, and capacity planning. 
+
+https://aws.amazon.com/documentation/cli/   ---Command line interperation.
+
+https://boto3.readthedocs.io/en/latest/
+
+ Amazon EC2 you will want to launch a virtual server,Amazon EC2 provides a wide selection of instance types optimized to fit different use cases. Instances are virtual servers that can run applications. They have varying combinations of CPU, memory, storage, and networking capacity, and give you the flexibility to choose the appropriate mix of resources for your applications.	
+
+
+Amazon VPC enables you to use your own isolated resources within the AWS cloud.where you can launch AWS resources in a virtual network that you define.
+Amazon Web Services (AWS) cloud where you can launch AWS resources in a virtual network that you define. 
+
+https://aws.amazon.com/training/self-paced-labs/ - Self paced labs.
